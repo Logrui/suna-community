@@ -21,13 +21,12 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 - **Forks**: 0
 - **Last Updated**: November 2025
 - **Repository**: [github.com/Logrui/suna](https://github.com/Logrui/suna)
-- **Language**: TypeScript
-- **Status**: 🟢 Actively Maintained
+- **Status**: 🟢 Actively Maintained as of 11/22/2025
 - **Notable Features**:
-  - Recreation of Manus "Wide Research"
-  - Native support for locally running models
-  - Integration of enterprise context databases
-- **Open Issues**: 4
+  - Attempting recreation of Manus "Wide Research"
+  - Completed Implementations: Notifications System, 
+  - Added Ollama and LMStudio support for locally running models
+  - Optimized for self hosting using Clouldflare Tunnel and Local Docker
 - **Details**: [diffs/logrui-suna.md](./diffs/logrui-suna.md)
 
 ### r3vs/suna
@@ -35,9 +34,7 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 - **Forks**: 0
 - **Last Updated**: June 2025
 - **Repository**: [github.com/r3vs/suna](https://github.com/r3vs/suna)
-- **Language**: TypeScript
 - **Status**: Active Development
-- **Open Issues**: 2
 - **Details**: [diffs/r3vs-suna.md](./diffs/r3vs-suna.md)
 
 ### daley-mottley/suna
@@ -61,7 +58,6 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 - **Forks**: 0
 - **Last Updated**: October 2025
 - **Repository**: [github.com/bladelee/suna-deepseek](https://github.com/bladelee/suna-deepseek)
-- **Language**: TypeScript
 - **Status**: 🟢 Actively Maintained
 - **Notable Features**:
   - DeepSeek model support
@@ -94,7 +90,6 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 - **Forks**: 0
 - **Last Updated**: May 2025
 - **Repository**: [github.com/BurtTheCoder/suna](https://github.com/BurtTheCoder/suna)
-- **Language**: TypeScript
 - **Status**: Active
 - **Details**: [diffs/burthecoder-suna.md](./diffs/burthecoder-suna.md)
 
